@@ -1,1 +1,3 @@
-hoi
+<?php
+	echo 'test';
+?>
